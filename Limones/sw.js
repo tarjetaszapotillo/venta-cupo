@@ -1,4 +1,4 @@
-var CACHE = 'venta-cupo-v3'; // súbele la versión cada vez que cambies index.html
+var CACHE = 'venta-cupo-limones-v3'; // súbele la versión cada vez que cambies index.html
 var ARCHIVOS = ['./', 'index.html', 'manifest.json'];
 
 self.addEventListener('install', function (e) {
